@@ -1,0 +1,8 @@
+## Title: TTCmac
+## APIVersion: 100034
+## Author: @tdenc
+## Version: 0.0.2
+## DependsOn: TamrielTradeCentre
+## SavedVariables: TTCmacSavedVars
+
+TTCmac.lua
