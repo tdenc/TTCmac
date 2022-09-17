@@ -1,7 +1,7 @@
 ## Title: TTCmac
-## APIVersion: 100034
+## APIVersion: 100034 100035 101031 101032
 ## Author: @tdenc
-## Version: 0.0.3
+## Version: 0.1.0
 ## DependsOn: TamrielTradeCentre
 ## SavedVariables: TTCmacSavedVars
 

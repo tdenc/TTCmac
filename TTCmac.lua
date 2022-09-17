@@ -29,6 +29,7 @@ function TTCmac:Initialize()
             ShowMessage("TTC data is outdated", "")
         end
     end
+    EVENT_MANAGER:UnregisterForEvent( TTCmac.name, EVENT_ADD_ON_LOADED)
 end
 
 function TTCmac.OnAddOnLoaded(event, addonName)
